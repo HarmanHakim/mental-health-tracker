@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-gybp_i0g%bu3m&_wdi-b=z_^wtdwn*z11n50u7++h692bat64)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["localhost", "127.0.0.1", harman-hakim-mentalhealthtracker]
+ALLOWED_HOSTS = ["localhost", "127.0.0.1", "harman-hakim-mentalhealthtracker"]
 
 
 # Application definition
